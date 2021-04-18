@@ -1,0 +1,7 @@
+.color-verde{
+    background-color:black;
+}
+body.color-verde{
+    width: max-content;
+    background-color:black
+}
