@@ -1,0 +1,64 @@
+h1 {
+    color: rgb(255, 255, 255);
+    background-color:rgb(0, 0, 0);
+    font-size: 300%;
+    text-align:center;
+}
+
+h2 {
+   color: rgb(255, 255, 255);
+   font-size: 100%;
+   text-align:center;
+}
+
+a {
+    color: rgb(153, 71, 128);
+    font-size: 100%;
+    font-family:Arial;
+}
+table {
+    width: 100%;
+    border: solid rgb(0, 0, 0);
+    text-align: center;
+    vertical-align: top;
+ }
+ 
+ .fila1{
+    background-color:rgb(211, 187, 223);
+    font-style: initial;
+    font-family: fantasy;
+ }
+
+ .fuente{
+    font-family:Arial;
+ }
+
+ ul{
+    list-style-type:circle;
+    font-family:Arial;
+ }
+
+ .boton{
+    background:rgb(0, 0, 0);
+    color: #ffffff;
+    border: 2px solid #000000;
+    border-radius: 6px;
+ }
+
+ input{
+    background:rgb(247, 247, 247);
+    border: 2px solid #000000;
+ }
+
+.frase{
+    background:rgb(219, 182, 210);
+    font-family:Arial;
+    font-size: 150%;
+    margin-left: auto;
+   margin-right: auto;
+ }
+
+ .subrayado{
+   text-decoration: underline wavy rgb(163, 83, 216); rgb(81, 21, 223);
+
+ }
